@@ -1,0 +1,20 @@
+/* Footer.css */
+
+footer {
+    background-color: #333; /* Dark background */
+    color: white; /* White text */
+    text-align: center; /* Center the text */
+    padding: 20px; /* Add padding to make it bigger */
+    position: fixed; /* Keep it at the bottom */
+    left: 0;
+    bottom: 0;
+    width: 100%; /* Full width */
+    font-size: 16px; /* Slightly larger font size */
+    font-weight: bold; /* Make the text bold */
+    letter-spacing: 1px; /* Add some spacing between letters */
+  }
+  
+  footer p {
+    margin: 0; /* Remove margin */
+  }
+  

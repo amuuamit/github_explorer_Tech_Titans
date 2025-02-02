@@ -1,0 +1,30 @@
+.repo-card {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin: 16px 0;
+  border-radius: 8px;
+  background-color: black;
+  color: white;
+  display: grid;
+/* grid-template-columns: repeat(3, 1fr); */
+
+}
+
+.repo-card h3 {
+  margin: 0 0 8px;
+  color: #fff;
+}
+.repo-card h3:hover{
+color: aqua;
+}
+
+
+.repo-card p {
+  margin: 4px 0;
+}
+.star {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}

@@ -1,0 +1,22 @@
+.search-filter {
+  margin: 20px auto;
+  padding: 10px;
+  max-width: 600px;
+}
+
+.search-filter input {
+  width: 100%;
+  padding: 12px 20px;
+  border: 1px solid #ddd;
+  border-radius: 25px;
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  transition: border-color 0.3s ease;
+}
+
+.search-filter input:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
