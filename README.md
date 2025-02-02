@@ -2,6 +2,8 @@
 
 In this project we created a Github Respository Explorer using react.js library.
 
+Deployed project link : [Github Repository Explorer](https://fluffy-bublanina-d13c5d.netlify.app/)
+
 # Features of this app
 
 -  Search for repositories -  Filter repositories by programming language -  Sort           repositories by stars or forks -  View key details of repositories:
